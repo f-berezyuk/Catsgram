@@ -1,0 +1,41 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Target
+/target/
+
+/target/classes/application.properties
+/target/Catsgram-1.0-SNAPSHOT.jar
+/target/Catsgram-1.0-SNAPSHOT.jar.original
+/target/classes/ru/yandex/practicum/catsgram/CatsgramApp.class
+/checkstyle.xml
+/target/checkstyle-cachefile
+/target/checkstyle-checker.xml
+/target/checkstyle-result.xml
+/.idea/compiler.xml
+/target/classes/ru/yandex/practicum/catsgram/exception/ConditionsNotMetException.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/.idea/encodings.xml
+/target/classes/ru/yandex/practicum/catsgram/controller/HomeController.class
+/target/classes/ru/yandex/practicum/catsgram/model/Image.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.idea/jarRepositories.xml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/target/maven-archiver/pom.properties
+/target/classes/ru/yandex/practicum/catsgram/model/Post$PostBuilder.class
+/target/classes/ru/yandex/practicum/catsgram/model/Post.class
+/target/classes/ru/yandex/practicum/catsgram/controller/PostController.class
+/.idea/libraries/projectlombok_lombok.xml
+/suppressions.xml
+/.idea/uiDesigner.xml
+/target/classes/ru/yandex/practicum/catsgram/model/User.class
+/.idea/vcs.xml
+/.idea/yatool.xml
